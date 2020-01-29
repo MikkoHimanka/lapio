@@ -4,4 +4,4 @@ tomaatti
 erilainen tomaatti
 punasipuli
 sinisipuli
-vihersopuli
+vihersopulia sikana
